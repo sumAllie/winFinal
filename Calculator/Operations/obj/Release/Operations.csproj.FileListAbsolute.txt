@@ -1,0 +1,5 @@
+E:\resources\Calculator\Operations\bin\Release\Operations.dll
+E:\resources\Calculator\Operations\bin\Release\Operations.pdb
+E:\resources\Calculator\Operations\obj\Release\Operations.csproj.CoreCompileInputs.cache
+E:\resources\Calculator\Operations\obj\Release\Operations.dll
+E:\resources\Calculator\Operations\obj\Release\Operations.pdb

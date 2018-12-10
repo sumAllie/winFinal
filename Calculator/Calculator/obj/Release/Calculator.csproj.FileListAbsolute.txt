@@ -1,0 +1,17 @@
+E:\resources\Calculator\Calculator\bin\Release\Calculator.exe.config
+E:\resources\Calculator\Calculator\bin\Release\Calculator.exe
+E:\resources\Calculator\Calculator\bin\Release\Calculator.pdb
+E:\resources\Calculator\Calculator\obj\Release\MainWindow.g.cs
+E:\resources\Calculator\Calculator\obj\Release\App.g.cs
+E:\resources\Calculator\Calculator\obj\Release\Calculator_MarkupCompile.cache
+E:\resources\Calculator\Calculator\obj\Release\Calculator_MarkupCompile.lref
+E:\resources\Calculator\Calculator\obj\Release\MainWindow.baml
+E:\resources\Calculator\Calculator\obj\Release\Calculator.g.resources
+E:\resources\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+E:\resources\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+E:\resources\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+E:\resources\Calculator\Calculator\obj\Release\Calculator.exe
+E:\resources\Calculator\Calculator\obj\Release\Calculator.pdb
+E:\resources\Calculator\Calculator\bin\Release\Operations.dll
+E:\resources\Calculator\Calculator\bin\Release\Operations.pdb
+E:\resources\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
