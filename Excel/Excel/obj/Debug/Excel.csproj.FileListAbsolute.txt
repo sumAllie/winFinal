@@ -1,0 +1,15 @@
+E:\resources\Excel\Excel\bin\Debug\Excel.exe.config
+E:\resources\Excel\Excel\bin\Debug\Excel.exe
+E:\resources\Excel\Excel\bin\Debug\Excel.pdb
+E:\resources\Excel\Excel\obj\Debug\Excel.csprojResolveAssemblyReference.cache
+E:\resources\Excel\Excel\obj\Debug\MainWindow.g.cs
+E:\resources\Excel\Excel\obj\Debug\App.g.cs
+E:\resources\Excel\Excel\obj\Debug\Excel_MarkupCompile.cache
+E:\resources\Excel\Excel\obj\Debug\Excel_MarkupCompile.lref
+E:\resources\Excel\Excel\obj\Debug\MainWindow.baml
+E:\resources\Excel\Excel\obj\Debug\Excel.g.resources
+E:\resources\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+E:\resources\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.Cache
+E:\resources\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+E:\resources\Excel\Excel\obj\Debug\Excel.exe
+E:\resources\Excel\Excel\obj\Debug\Excel.pdb
